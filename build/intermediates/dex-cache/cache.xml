@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7217c518a62e7181f9e04842f887cc9899e19eab">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.digits.sdk.android-digits-1.11.0_8afa35713c23ae393c312867d01b517b2272c6dc.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.14.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c3dc8f4cb42b0d8e31bc7237a4a3bbcc247db35">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-1.14.0_6f6f95cd225b21412ccf1be03d18dd43519699af.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0_7180e9bb281c0b639a837bb856967eee18247b3f.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0_152548d5902b07bc4d0a993f0a4e6a356be929d5.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c59125fc6aea178b0aab6319d00591fc3dd313f4.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_93c75611bd9fae37d8660ff64cd7bbecfedec964.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_27660a3a1a38e791436fde0853e9174d29628090.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c15baca2e57ebec0f42e5924e60f615451045388">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-composer-1.0.5_94c5610ee05e7182c4ebadc43e6ca414b0a483c0.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit-mock/1.8.0/8bc99a93998f08302e7615cca69ba8c97c6a6b2/retrofit-mock-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08bc99a93998f08302e7615cca69ba8c97c6a6b2">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/retrofit-mock-1.8.0_7c472925cedcbdc49b5e10cf7c8d60ca92a56710.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/gson-2.4_cfd2e824ee9aac2d1ad07724678ed5a7234a06c3.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_4fd36feb3340d6df53d75ceafbee5a10c4e7d016.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_d9ac689e8e5e8266df3428afa71021d9668b428e.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.12/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.12_90e2702b654e543abf6f723aaa5d0875e476216b.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers-shim/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29864b68d990da5b14dbff9fbecf10600bcf7603">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-shim-0.0.3_311c9c6b14fdbb87851e44ad0f3ac5a7d8ecf87d.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_6b061bb8dc3da87f01f00aa01ee8b9499fc6bba4.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3248e86647b947af00d355e1f65da130aa07a20c">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-core-1.7.0_4b864bd5de488f98d43b4fd67ec8820dcb8d4e8b.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a242d59b7ee6cf3edd0abb5be1926099e48837eb">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-ui-1.11.0_9b2a7865812fc59cdd92f70368234bcb04b70e72.jar" />
+    </item>
+    <item
+        jar="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ashish/AndroidStudioProjects/android-tablayout-example/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_ecf13801e2df7be2715e7b9c865cd467ffc6775c.jar" />
+    </item>
+
+</items>
